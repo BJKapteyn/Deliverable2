@@ -1,0 +1,7 @@
+C:\Users\Neville Bamshoot\source\repos\Delivery2\Delivery2\bin\Debug\Delivery2.exe.config
+C:\Users\Neville Bamshoot\source\repos\Delivery2\Delivery2\bin\Debug\Delivery2.exe
+C:\Users\Neville Bamshoot\source\repos\Delivery2\Delivery2\bin\Debug\Delivery2.pdb
+C:\Users\Neville Bamshoot\source\repos\Delivery2\Delivery2\obj\Debug\Delivery2.csprojAssemblyReference.cache
+C:\Users\Neville Bamshoot\source\repos\Delivery2\Delivery2\obj\Debug\Delivery2.csproj.CoreCompileInputs.cache
+C:\Users\Neville Bamshoot\source\repos\Delivery2\Delivery2\obj\Debug\Delivery2.exe
+C:\Users\Neville Bamshoot\source\repos\Delivery2\Delivery2\obj\Debug\Delivery2.pdb
