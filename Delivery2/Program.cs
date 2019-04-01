@@ -88,6 +88,7 @@ namespace Delivery2
                     }
                     else
                     {
+                        Console.WriteLine("That's not a number, try again agent.");
                         continue;
                     }
                 }
