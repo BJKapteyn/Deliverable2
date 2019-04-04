@@ -76,7 +76,7 @@ namespace Delivery2
                         }
                         else if (numberPeople > 4)
                         {
-                            Console.WriteLine("Your mother has been dispatched in the minivan");
+                            Console.WriteLine("Your mother has been dispatched in the minivan.");
                         }
                         else
                         {
